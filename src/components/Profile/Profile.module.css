@@ -1,0 +1,18 @@
+.content {
+    grid-area: content;
+    background-color: aqua;
+}
+
+.item {
+    color: green;
+}
+
+.item.active {
+    color: darkblue;
+}
+
+.myAva img{
+    width: 150px;
+    height: 150px;
+    border-radius: 25%;
+}
