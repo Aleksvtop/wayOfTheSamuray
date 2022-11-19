@@ -9,6 +9,11 @@
   "navigation content";
   width: 1200px;
 }
+.appWrapperContent {
+  grid-area: content;
+  background-color: aqua;
+}
+
 
 
 

@@ -4,7 +4,7 @@ import {MyPosts} from "./MyPosts/MyPosts";
 
 export const Profile = () => {
     return (
-        <div className={classesProf.content}>
+        <div>
             <div>
                 <img src="http://az837918.vo.msecnd.net/publishedimages/articles/1733/en-CA/images/1/free-download-this-stunning-alberta-scene-for-your-device-background-image-L-6.jpg" alt="Nature"/>
             </div>
