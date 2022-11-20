@@ -1,0 +1,9 @@
+.myAva img{
+    width: 150px;
+    height: 150px;
+    border-radius: 25%;
+}
+
+.description {
+    padding: 10px;
+}
