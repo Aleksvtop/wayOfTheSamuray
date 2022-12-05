@@ -4,6 +4,11 @@ import React from "react";
 
 export const Message = (props: any) => {
     return (
-        <div className={classesDial.message}>{props.message}</div>
+        <div>
+            <div className={classesDial.message}>{props.message}</div>
+            <textarea ></textarea>
+        </div>
+
+
     )
 }
